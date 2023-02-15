@@ -13,6 +13,7 @@ const Navbar = () => {
       <div className="app__navbar-logo">
         <img src={images.gericht} alt="app logo" />
       </div>
+
       <ul className="app__navbar-links">
         {/* paragraph in opensans fonts */}
         <li className="p__opensans">
@@ -31,6 +32,7 @@ const Navbar = () => {
           <a href="#contact">Contact</a>
         </li>
       </ul>
+
       <div className="app__navbar-login">
         <a href="#login" className="p__opensans">
           Log In / Register
@@ -40,6 +42,7 @@ const Navbar = () => {
           Book Table
         </a>
       </div>
+
       <div className="app__navbar-smallscreen">
         <GiHamburgerMenu
           color="#fff"
@@ -54,6 +57,7 @@ const Navbar = () => {
               className="overlay__close"
               onClick={() => setToggleMenu(false)}
             />
+
             <ul className="app__navbar-smallscreen_links">
               {/* paragraph in opensans fonts */}
               <li className="p__opensans">
