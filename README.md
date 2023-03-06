@@ -1,4 +1,17 @@
-# Getting Started with Create React App
+# Modern-ui-ux-restaurant-website
+
+- This is a React project where React functional components and their reusability are used
+- Have React file and folder structure
+- Use Fundamental CSS features like flex and grid and CSS BEM model
+- From soft and pleasant animations to complex gradients
+- Responsiveness perfectly covers almost all devices
+<br/>
+
+![alt text](https://github.com/sharminK/modern-ui-ux-restaurant-website/blob/main/modern-ui-ux-restaurant-website-reponsive.png)
+
+<br/>
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
